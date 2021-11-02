@@ -1,0 +1,19 @@
+.Font {
+    height: 200px;
+    width: 50%;
+    background-color:#00112b ;
+    border:1px #00112b;
+    border-radius: 25px;
+    transition: margin-right 2s ease-in-out .5s;
+}
+
+i {
+
+    color: white;
+}
+
+h3 {
+    color: white;
+    margin-top: 20px;
+    margin-left: 40px;
+}
